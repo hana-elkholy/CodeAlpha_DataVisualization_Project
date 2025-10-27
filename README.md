@@ -42,7 +42,7 @@ Excel Dashboard: Summarized sales and profit performance by category and region.
 
 Tableau Dashboard: Provided an interactive overview of sales trends, KPIs, and profitability.
 
-📸 Dashboard Preview: (<tableau dashboard-1.png>)
+📸 Dashboard Preview: [(<tableau dashboard-1.png>)](https://github.com/hana-elkholy/CodeAlpha_DataVisualization_Project/blob/main/tableau%20dashboard.png)
 
 
 🧰 Tools & Technologies
@@ -57,5 +57,6 @@ This project was completed as part of the CodeAlpha Data Analytics Internship (O
 Thanks to CodeAlpha for providing the opportunity to apply analytical and visualization skills to real-world datasets.
 
 🔗 Links
+
 
 LinkedIn Post:
